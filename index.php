@@ -1,4 +1,8 @@
 <?php
+/*
+ * deneme dosyasi
+ * 
+ */
 class Money
 {
     private $amount;
